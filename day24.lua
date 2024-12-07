@@ -1,0 +1,1 @@
+-- Aoc day 24 lua
