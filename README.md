@@ -7,6 +7,7 @@ so let's see how far I can go.
 * lisp
 * clojure
 * haskell
+* go
 * erlang
 * perl
 * objective c
@@ -17,7 +18,6 @@ so let's see how far I can go.
 * ocaml
 * nim
 * zig
-* go
 * php
 * ruby
 * scala
